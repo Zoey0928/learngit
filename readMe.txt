@@ -4,6 +4,7 @@ Git hasa a mutable index called stage
 Git trecks changes.
 
 Creating a new branch is quick AND simple.
+	add new content.
 
 
 
